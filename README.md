@@ -1,0 +1,2 @@
+# taymout
+Discord TIMEOUT Komudu
